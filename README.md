@@ -1,4 +1,4 @@
-![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg0T9UQYwn52TMgGLBVRn9pi8elAMO0Kfmxg&usqp=CAU)
+![logo]()
 <h1 align="center">Hi 👋, I'm Pratik Salunkhe</h1>
 <h3 align="center">A passionate Data Science from India</h3>
 
