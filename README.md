@@ -4,8 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik-salunkhe&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-salunkhe" /> </p>
 
 - 🔭 I’m currently studying **Data Science**
+
+- 👯 I’m currently learning [*Transform Architecture, AI, Generative AI*](https://github.com/Pratik-Salunkhe)
   
-- 👯 I’m currently learning [*Python,Pandas,Numpy,ML,Stats,SQL,Excel*](https://github.com/Pratik-Salunkhe)
+- 👯 I’m good with [*Python,Pandas,Numpy,ML,Stats,SQL,Excel*](https://github.com/Pratik-Salunkhe)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pratik-Salunkhe](https://github.com/Pratik-Salunkhe)
 
